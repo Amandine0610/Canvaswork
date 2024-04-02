@@ -6,7 +6,7 @@ This project pilot web app allows users to organize and track their projects and
 
 -Add new tasks
 -View task list
--Mark tasks as completed
+-Delete Task entry
 
 ## Getting started
 
