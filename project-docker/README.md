@@ -1,6 +1,6 @@
 # Project Management Web Application
 
-This project management web app allows users to organize and track their projects and tasks efficiently.It provides a simple and user-friendly interface for addin tasks, viewing the task list, and marking tasks as completed.
+This project pilot web app allows users to organize and track their projects and tasks efficiently.It provides a simple and user-friendly interface for addin tasks, viewing the task list, and marking tasks as completed.
 
 ## Features
 
