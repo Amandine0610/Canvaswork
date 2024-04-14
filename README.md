@@ -24,6 +24,7 @@ To run the application locally, follow the steps:
 1.Build the Docker image
 2.Run a Docker container based on the image
 3.Access the application in your web browser
+https://hub.docker.com/repository/docker/amandine0610/myrepository/general
 
 ## Assumptions and Decisions
 
